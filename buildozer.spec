@@ -1,5 +1,5 @@
 [app]
-title = Negad System
+title = Al-Subaha
 package.name = negadsystem
 package.domain = org.negad
 source.include_exts = py,png,jpg,kv,atlas
