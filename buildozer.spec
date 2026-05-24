@@ -14,3 +14,4 @@ android.sdk = 23
 android.ndk = 25b
 android.gradle_dependencies =
 p4a.branch = master
+icon.filename = %(source.dir)s/gasoline.png
