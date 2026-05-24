@@ -1,7 +1,7 @@
 [app]
-title = Al-Subaha
-package.name = negadsystem
-package.domain = org.negad
+title = Al-Sabaha
+package.name = alsabaha
+package.domain = org.alsabaha
 source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
 requirements = python3,kivy,arabic-reshaper,python-bidi
